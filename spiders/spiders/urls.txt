@@ -1,0 +1,3 @@
+https://www.example.com/pages/1/
+https://www.example.com/pages/2/
+https://www.example.com/pages/3/
